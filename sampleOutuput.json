@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 23,
+  "articles": [
+    {
+      "source": { "id": "wirtschafts-woche", "name": "Wirtschafts Woche" },
+      "author": "Wirtschaftswoche",
+      "title": "Altersvorsorge: Lindner will Kapital für Aktienrente deutlich aufstocken",
+      "description": "Wertpapiere für die Altersvorsorge: In den USA ist das längst Normalität. Der Bundesfinanzminister sieht in der Aktienrente auch eine Chance für Deutschland.",
+      "url": "https://www.wiwo.de/politik/deutschland/altersvorsorge-lindner-will-kapital-fuer-aktienrente-deutlich-aufstocken/28849888.html",
+      "urlToImage": "https://www.wiwo.de/images/christian-lindner/28849886/1-format11240.jpg",
+      "publishedAt": "2022-12-06T05:45:35+00:00",
+      "content": "Für Nachrichtenseiten wie WirtschaftsWoche Online sind Anzeigen eine wichtige Einnahmequelle. Mit den Werbeerlösen können wir die Arbeit unserer Redaktion bezahlen und Qualitätsartikel kostenfrei ver… [+173 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "CBS News",
+      "title": "FBI joins investigation into North Carolina power substation damage",
+      "description": "Tens of thousands remain without power in Moore County, North Carolina, after two power substations were damaged by gunfire. CBS News senior national correspondent Mark Strassmann joined John Dickerson on \"Prime Time\" to discuss the latest on the situation.",
+      "url": "https://www.cbsnews.com/video/fbi-joins-north-carolina-power-substations-investigation/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/06/1ecdba3c-db3f-440c-b17e-9d48555bc828/thumbnail/1200x630/cca7217b351113403e24b1a8da92d11e/cbsn-fusion-fbi-joins-north-carolina-power-substations-investigation-thumbnail-1521630-640x360.jpg",
+      "publishedAt": "2022-12-06T05:32:33+00:00",
+      "content": "Watch CBS News\r\nCopyright ©2022 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+      "source": { "id": "handelsblatt", "name": "Handelsblatt" },
+      "author": "Sandra Schuffelen",
+      "title": "Börse heute aktuell: Dax & Termine im täglichen Börsenbericht",
+      "description": "Für den Dax könnte es am zweiten Handelstag der Woche erneut bergab gehen. Neue Konjunkturdaten aus den USA verschärfen die Zinssorgen der Anleger.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/boerse-am-6-dezember-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/27034552.html",
+      "urlToImage": "https://www.handelsblatt.com/images/kurstafel/27683942/6-format2003.png",
+      "publishedAt": "2022-12-06T05:20:42+00:00",
+      "content": "Düsseldorf Wie wird sich der deutsche Aktienmarkt am heutigen Dienstag entwickeln? Am Montag hatte der Dax 0,6 Prozent im Minus bei 14.447 Punkten geschlossen. Auch die US-Börsen haben zum Wochenauft… [+1234 chars]"
+    },
+    {
+      "source": { "id": "google-news-ar", "name": "Google News (Argentina)" },
+      "author": "Clarín.com",
+      "title": "Juicio a Cristina Kirchner, EN VIVO: a horas del veredicto por la causa Vialidad",
+      "description": "Este martes se conocerá la sentencia. La fiscalía pidió 12 años de prisión para la vicepresidenta.",
+      "url": "https://www.clarin.com/politica/juicio-cristina-kirchner-vivo-horas-veredicto-causa-vialidad_0_tmaFC8BZpJ.html",
+      "urlToImage": "https://www.clarin.com/img/2022/12/03/IOzxFloQ0_1200x630__1.jpg",
+      "publishedAt": "2022-12-06T03:58:30+00:00",
+      "content": "No. Para empezar, sea cual fuera la sentencia en su contra, Cristina tiene fueros como vicepresidenta. Pero además, cuando se den a conocer los fundamentos del veredicto -en febrero o marzo- la sente… [+461 chars]"
+    },
+    {
+      "source": { "id": "la-nacion", "name": "La Nacion" },
+      "author": null,
+      "title": "Murió Kirstie Alley, la actriz de Mira quién habla y Cheers",
+      "description": "La intérprete tenía 71 años; la familia publicó un comunicado en el que reveló la causa de su muerte",
+      "url": "http://www.lanacion.com.ar/espectaculos/personajes/murio-kirstie-alley-la-actriz-de-mira-quien-habla-y-cheers-nid05122022/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/DkQ6Ut3-EmoPujsRxR7izn2A3kQ=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/CFQNSF7QOBCK7HKCESB34WBPFU.jpg",
+      "publishedAt": "2022-12-06T02:35:41.229Z",
+      "content": "Durante la noche del lunes trascendió la noticia que confirma la muerte de Kirstie Alley. A través de su cuenta personal de Twitter, sus hijos informaron del fallecimiento de la querida actriz, que e… [+1413 chars]"
+    },
+    {
+      "source": { "id": "ansa", "name": "ANSA.it" },
+      "author": "ANSA.it",
+      "title": "Usa: animali morti nei test, indagine su Neuralink di Elon Musk - Ultima Ora",
+      "description": "Neuralink di Elon Musk è sotto indagine federale dopo la morte di circa 1.500 animali dal 2018 in seguito ai test condotti. (ANSA)",
+      "url": "http://www.ansa.it/sito/notizie/topnews/2022/12/06/usa-animali-morti-nei-test-indagine-su-neuralink-di-elon-musk_f62d72c4-8f8d-4b89-af97-ff1abdc52404.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2022/11/10/d6b7d7beb420ed6707d95bf007c41e5d.jpg",
+      "publishedAt": "2022-12-06T01:28:00Z",
+      "content": "(ANSA) - NEW YORK, 05 DIC - Neuralink di Elon Musk è sotto\r\nindagine federale dopo la morte di circa 1.500 animali dal 2018\r\nin seguito ai test condotti. Lo riporta il Guardian,\r\nsottolineando che lo… [+432 chars]"
+    },
+    {
+      "source": { "id": "la-gaceta", "name": "La Gaceta" },
+      "author": "La Gaceta",
+      "title": "Causa Vialidad: kirchneristas y anti k esperan una condena contra Cristina Kirchner",
+      "description": "Se especula con que el tribunal le podría dar una pena solo por el delito de la administración fraudulenta, y no por el de la asociación ilícita.",
+      "url": "https://www.lagaceta.com.ar/nota/972264/politica/causa-vialidad-kirchneristas-anti-k-esperan-condena-contra-cristina-kirchner.html",
+      "urlToImage": "https://img.lagaceta.com.ar/fotos/notas/2022/12/05/expectativas-kirchneristas-anti-k-esperan-condena-contra-vicepresidenta-cristina-fernandez-causa-vialidad-972264-202035.jpg",
+      "publishedAt": "2022-12-05T23:52:26.0528317Z",
+      "content": "Resultaría más fácil hallar en la Argentina una persona que no sepa que la vicepresidenta, Cristina Fernández, está a escasas horas de escuchar una sentencia en su contra que encontrar a alguien que … [+7510 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Big questions remain in wake of North Carolina power grid attack - CNN",
+      "description": "<ol><li>Big questions remain in wake of North Carolina power grid attack  CNN\r\n</li><li>As Outage Stretches On, Community Continues to Step Up  The Pilot\r\n</li><li>\"Targeted\" attacks cause North Carolina power outage  CBS Evening News\r\n</li><li>Tens of thousa…",
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZWJFNjY1bzE0NGPSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-12-05T23:35:59+00:00",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+      "source": { "id": "nrk", "name": "NRK" },
+      "author": "Sunniva Grimstad Hestenes",
+      "title": "Sektleiar ville gifte seg med dottera si – skal ha over 20 koner",
+      "description": "Ein sektleiar i Arizona USA har blitt skulda for å ha gifta seg med over 20 kvinner. Fleire av dei er under 15 år.",
+      "url": "https://www.nrk.no/norge/sektleiar-ville-gifte-seg-med-dottera-si-_-skal-ha-over-20-koner-1.16208241",
+      "urlToImage": "https://gfx.nrk.no/28agKcjOxwyXjg-M0S9IIAIpRnZi0GBQoT-dpgtWC35w",
+      "publishedAt": "2022-12-05T22:05:47Z",
+      "content": "FBI skuldar Samuel Bateman for incest, gruppesex mellom vaksne og barn heilt ned i niårs alderen, og sexhandel. Det viser eit rettsdokument den amerikanske avisa Salt Lake Tribune har fått tak i.\r\nBa… [+3070 chars]"
+    },
+    {
+      "source": { "id": "ansa", "name": "ANSA.it" },
+      "author": "ANSA.it",
+      "title": "Congo: ministro, circa 300 le vittime in attacco ribelli - Ultima Ora",
+      "description": "Ha fatto \"circa 300 morti\" il massacro perpetrato il 29 novembre nel villaggio di Kishishe e di cui il governo della Repubblica democratica del Congo (Rdc) accusa i ribelli del gruppo M23: lo ha affermato Julien Paluku, ministro dell'Industria della Rdc ed...…",
+      "url": "http://www.ansa.it/sito/notizie/topnews/2022/12/05/congo-ministro-circa-300-le-vittime-in-attacco-ribelli_1026afbc-39e7-48ab-b70f-0fd3c36e7668.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2013/11/4/5185aeeec78167f40cf8054e64f4153d.jpg",
+      "publishedAt": "2022-12-05T20:41:00Z",
+      "content": "(ANSA) - KINSHASA, 05 DIC - Ha fatto \"circa 300 morti\" il\r\nmassacro perpetrato il 29 novembre nel villaggio di Kishishe e\r\ndi cui il governo della Repubblica democratica del Congo (Rdc)\r\naccusa i rib… [+1106 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US Supreme Court weighs clash between free speech and gay rights",
+      "description": "A woman's refusal to create wedding websites for same-sex couples has reached the Supreme Court.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-63863417",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15A3/production/_127893550_gettyimages-1245373644.jpg",
+      "publishedAt": "2022-12-05T19:07:22.2722593Z",
+      "content": "The US Supreme Court has heard arguments in the case of a graphic designer who refused to create wedding websites for same-sex couples.\r\nIt is the latest case to reach the top court that pits free sp… [+2895 chars]"
+    },
+    {
+      "source": { "id": "google-news-it", "name": "Google News (Italy)" },
+      "author": "Andrea Marinelli e Guido Olimpio",
+      "title": "Russia, esplosioni in due aeroporti: forse usato un nuovo drone con un raggio d’azione di mille chilometri",
+      "description": "Gli ucraini potrebbero aver usato un nuovo drone-kamikaze per colpire una o due basi nemiche a grande distanza. Gli invasori hanno invece picchiato duro con i missili. Ucciso in Svezia un dissidente ceceno",
+      "url": "https://www.corriere.it/esteri/22_dicembre_05/russia-esplosioni-due-aeroporti-forse-usato-nuovo-drone-un-raggio-d-azione-mille-chilometri-aea5d908-74b6-11ed-96ff-6cd26eb698d3.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/2022/12/05/Esteri/Foto-Esteri-Trattate/dro-kqIH-U3390507637786PJE-526x284@Corriere-Web-Sezioni.jpg",
+      "publishedAt": "2022-12-05T18:11:15+00:00",
+      "content": "Gli ucraini potrebbero aver usato un nuovo drone-kamikaze per colpire una o due basi nemiche a grande distanza. Gli invasori hanno invece picchiato duro con i missili. Ucciso in Svezia un dissidente … [+4886 chars]"
+    },
+    {
+      "source": { "id": "google-news-it", "name": "Google News (Italy)" },
+      "author": "https://www.facebook.com/davidtytopuente/",
+      "title": "Il grafico usato da Giorgia Meloni non dimostra che «più alzi il tetto al contante e più sfavorisci l'evasione»",
+      "description": "La presidente del consiglio pone come certa la correlazione tra tetto al contante ed evasione fiscale, ma la sua fonte non lo conferma",
+      "url": "https://www.open.online/2022/12/05/appunti-giorgia-menoli-grafico-unimpresa-tetto-contante-evasione-fc/",
+      "urlToImage": "https://static.open.online/wp-content/uploads/2022/12/meloni-tetto-contante-evasione-unimprese.jpg",
+      "publishedAt": "2022-12-05T16:31:57+00:00",
+      "content": "La rubrica video intitolata Gli appunti di Giorgia, inaugurata domenica 4 dicembre nella pagina Facebook del Presidente del Consiglio, inizia con un’informazione fuorviante relativa al tetto del cont… [+6451 chars]"
+    },
+    {
+      "source": { "id": "nbc-news", "name": "NBC News" },
+      "author": "Lawrence Hurley",
+      "title": "Supreme Court weighs web designer’s refusal to work on same-sex weddings",
+      "description": "The Supreme Court hears a clash between religious conservatives and LGBTQ rights in a conservative Christian web designer's bid to avoid same-sex weddings.",
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-weighs-web-designers-refusal-work-sex-weddings-rcna59852",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-11/221108-Lorie-Smith-al-0906-f4b020.jpg",
+      "publishedAt": "2022-12-05T12:10:35Z",
+      "content": "WASHINGTON The Supreme Court on Monday hears the latest clash between religious conservatives and LGBTQ rights as it weighs a conservative evangelical Christian web designer's bid to avoid working on… [+4171 chars]"
+    },
+    {
+      "source": { "id": "google-news-it", "name": "Google News (Italy)" },
+      "author": "",
+      "title": "Ancora naufragi al largo di Lampedusa, due bimbi dispersi - Cronaca",
+      "description": "Anche un migrante morto, salvi in 63. Allarme per barcone con 450 (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2022/12/05/barca-affonda-a-lampedusa-4-dispersi-anche-2-bimbi_b493d429-d7bb-4d68-8280-3a7141ac7d51.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2022/12/4/41715adae970f0dbb0224d35cc80f480.jpg",
+      "publishedAt": "2022-12-05T10:56:00+00:00",
+      "content": "Uno ha sei mesi, l'altro 6 anni. Erano fratelli ed entrambi sono finiti molto probabilmente in fondo al mare nell'ennesima tragedia che si è consumata nel Mediterraneo centrale. I due bimbi sono entr… [+2576 chars]"
+    },
+    {
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
+      "author": null,
+      "title": "Indonesia Struggles to Attract Investors to Back Its New Capital Nusantara Plans",
+      "description": "",
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiggFodHRwczovL3d3dy5ibG9vbWJlcmcuY29tL25ld3MvZmVhdHVyZXMvMjAyMi0xMi0wNS9pbmRvbmVzaWEtcy1uZXctcmFpbmZvcmVzdC1jaXR5LXByZXNpZGVudC1qb2tvd2ktcy1udXNhbnRhcmEtcGxhbnMtZmFjZS10cm91Ymxl0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-12-05T00:00:00+00:00",
+      "content": ""
+    },
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "Isobel Roe",
+      "title": "Unions NSW survey of 7,000 foreign language job ads finds more than half offer illegal rates of pay",
+      "description": "Sarah is among thousands of migrant workers accepting jobs below the minimum legal rate, as a survey by Unions NSW finds more than half of job ads written in foreign languages are breaking the law.",
+      "url": "http://www.abc.net.au/news/2022-12-05/unions-nsw-foreign-language-job-ads-survey-most-spruik-low-pay/101730106",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/54ea832bc2c65e179305e11951941848?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "publishedAt": "2022-12-04T18:16:11Z",
+      "content": "Sarah* moved to Australia from the Philippines with the promise of a massage therapy job in Canberra, so she could send money home to her family.\r\n<ul><li>7,000 job ads written in foreign languages w… [+4392 chars]"
+    },
+    {
+      "source": { "id": "the-next-web", "name": "The Next Web" },
+      "author": "Alejandro Tauber",
+      "title": "Why the future of AI is flexible, reusable foundation models",
+      "description": "When learning a different language, the easiest way to get started is with fill in the blank exercises. “It’s raining cats and …”\r\n\r\nBy making mistakes and correcting them, ...",
+      "url": "http://thenextweb.com/news/why-the-future-of-ai-is-flexible-reusable-foundation-models",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F11%2FIBM-Featured-Image.jpg&signature=a15addb467503afffaf9d033bec450f2",
+      "publishedAt": "2022-11-28T13:20:56Z",
+      "content": "When learning a different language, the easiest way to get started is with fill in the blank exercises. Its raining cats and \r\nBy making mistakes and correcting them, your brain (which linguists agre… [+8515 chars]"
+    },
+    {
+      "source": { "id": "bild", "name": "Bild" },
+      "author": null,
+      "title": "USA: Kind (4) nascht Kiffer-Gummibärchen und stirbt | News",
+      "description": "Weil er Kiffer-Gummibärchen gegessen hatte, musste der kleine Tanner Clements (4) sterben.",
+      "url": "http://www.bild.de/news/ausland/news-ausland/usa-kind-4-nascht-kiffer-gummibaerchen-und-stirbt-81727482.bild.html",
+      "urlToImage": "https://images.bild.de/6357ab38ef6a575a9b798956/58cfc121a4d8982cc8fee8241786640b,f510d838?w=1280",
+      "publishedAt": "2022-10-25T11:25:15Z",
+      "content": "Weil er Kiffer-Gummibärchen gegessen hatte, ist der kleine Tanner Clements (4) nun tot. Mutter Dorothy (30) steht wegen Mordes vor einem US-Gericht.\r\nNach Medienberichten hatte sich das Unglück berei… [+1872 chars]"
+    },
+    {
+      "source": { "id": "crypto-coins-news", "name": "Crypto Coins News" },
+      "author": "Aaron Weaver",
+      "title": "Why Has the Media Been So Reluctant to Unmask Andrew Cuomo? - CCN.com",
+      "description": "Andrew Cuomo has been accused of sexual assault by one of his former aides.\r\n \tThis accusation comes on the heels of allegations that he threatened a journalist.\r\n \tThose allegations stem from what appears to be a massive coverup that caused thousands of Covi…",
+      "url": "https://www.ccn.com/media-unmask-andrew-cuomo/",
+      "urlToImage": "https://cdn.ccn.com/wp-content/uploads/2021/02/andrew-cuomo-shutterstock_1767748784-e1614196667263.jpg",
+      "publishedAt": "2021-02-24T20:02:04Z",
+      "content": "Facebook TwitterLinkedInRedditMessenger\r\n<ul><li>Andrew Cuomo has been accused of sexual assault by one of his former aides.</li><li>This accusation comes on the heels of allegations that he threaten… [+4763 chars]"
+    }
+  ]
+}
