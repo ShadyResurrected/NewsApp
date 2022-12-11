@@ -7,10 +7,9 @@ import NavDropdown from "react-bootstrap/NavDropdown";
 
 import { LinkContainer } from "react-router-bootstrap";
 
-export class NavBar extends Component {
-  render() {
+const NavBar = () => {
     return (
-      <Navbar bg="dark" expand="lg" variant="dark">
+      <Navbar bg="dark" expand="lg" variant="dark" className="fixed-top">
         <Container>
           <Navbar.Brand>NewsApp</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -49,6 +48,5 @@ export class NavBar extends Component {
       </Navbar>
     );
   }
-}
 
 export default NavBar;
